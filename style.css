@@ -1,0 +1,149 @@
+body{
+  font-family: Arial;
+  margin: 1px;
+}
+header{
+  background: darkviolet;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+nav{
+  text-align: center;
+  background: steelblue;
+  padding: 10px;
+}
+nav img{
+  margin: 5px;
+}
+#home{
+  background-color: darkturquoise;
+}
+.bg-image{
+    background-image: url("a552d435a70bf70717a2adfd2436bb8e.jpg");
+  background-repeat: no-repeat;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+h2{
+  color: darkorchid;
+}
+main{
+  padding: 20px;
+}
+footer{
+  text-align: center;
+  padding: 10px;
+}
+.images{
+  display: flex;
+  gap: 10px;
+}
+.images img{
+  width: 120px;
+  margin: 10px;
+  display: inline-block;
+  
+}
+.picture{
+  display: flex;
+  gap: 10px;
+}
+.picture img{
+  width: 120px;
+  margin: 5px;
+  display: inline-block;
+}
+.video{
+  display: flex;
+  gap: 10px;
+}
+.video video{
+  margin: 5px;
+  display: inline-block;
+  width: 195px;
+  padding: 0px;
+}
+.gallery{
+display: flex;
+gap: 10px;
+}
+.gallery img{
+  width: 120px;
+  margin: 5px;
+  display: inline-block;
+}
+h1{
+  background-color: navajowhite;
+  color: darkblue;
+  text-align: center;
+}
+#axmed{
+  display: flex;
+  gap: 10px;
+}
+#axmed img{
+  width: 120px;
+  margin: 5px;
+  display: inline-block;
+}
+h4{
+  background-color: darkcyan;
+  color: palevioletred;
+  text-align: center;
+}
+#cabdi{
+  display: flex;
+  gap: 10px;
+}
+#cabdi img{
+  width: 120px;
+  margin: 5px;
+  display: inline-block;
+}
+.nuur{
+  display: flex;
+  gap: 10px;
+}
+.nuur img{
+  width: 120px;
+  margin: 5px;
+  display: inline-block;
+}
+.videos{
+  display: flex;
+  gap: 10px;
+}
+.videos video{
+  margin: 5px;
+  width: 195px;
+  display: inline-block;
+  padding: 0px;
+}
+#cali{
+  background-color: sandybrown;
+}
+.meesi{
+  background-color: springgreen;
+}
+.gradient{
+  background-image: url("99.jpg");
+}
+.yaxye{
+  display: flex;
+  gap: 10px;
+}
+.yaxye video{
+  margin: 5px;
+  width: 195px;
+  display: inline-block;
+  padding: 0px;
+}
+#audio{
+  background-color: chocolate;
+  text-align: center;
+}
+.cod{
+  background: red;
+  text-align: center;
+}
